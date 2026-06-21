@@ -68,7 +68,11 @@ destination:      ./_site
 incremental:      false
 regenerate:       true
 
+
 plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+toc:
+    enabled: true
