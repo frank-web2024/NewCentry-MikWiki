@@ -59,8 +59,7 @@ collections:
 
 ordered_collections:
   - posts
-  - pages
-  - others
+  - history
 
 page_width: 800px
 
